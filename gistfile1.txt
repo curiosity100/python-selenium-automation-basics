@@ -1,0 +1,128 @@
+ <h3>DIV or Containers</h3>
+    <div class="teacher " id="super">
+        <p>Teacher1</p>
+        <p>Teacher2</p>
+        <p>Teacher3</p>
+        <p>Teacher4</p>
+    </div>
+    <div class="students" >
+        <p>students</p>
+        <p>students</p>
+        <p>students</p>
+        <p>students</p>
+    </div>
+
+    <article>
+
+    </article>
+    <br>
+    <hr>
+    <br>
+    <h1>CSS</h1>
+    <p>Class & Id are used to get element or to apply styling property for specific output</p>
+    <p>class can be repated but Id should be unique</p>
+    <ol>
+        <li>inline css</li>
+        <li>External css</li>
+        <li>internal css</li>
+    </ol>
+    <br>
+    <h3>Border</h3>
+   <ol>
+       <li>border-width</li>
+       <li>border-style</li>
+       <li>border color</li>
+   </ol>
+   <p>border: 2px dotted color</p>
+
+   <h3>Margin</h3>
+   <div class="Margin">
+    hi
+   </div>
+   <br>
+   <hr>
+   <h3>Padding</h3>
+   <div class="padding">
+    hi
+   </div>
+   <br>
+   <hr>
+   <h1>Text</h1>
+   <p>Formatting Text</p>
+   <ol>
+       <li  class="align">Alignments
+           <ul>
+               <li>direction</li>
+               <li>text-align</li>
+               <li>vertical-align</li>
+               <li>vertical-align</li>
+               <li>vertical-align</li>
+               <li>vertical-align</li>
+               <li>vertical-align</li>
+               <li>vertical-align</li>
+               <li>vertical-align</li>
+               <li>vertical-align</li>
+           </ul>
+       </li>
+       <li>text-decorations
+           <ul>
+               <li>line</li>
+               <li>color</li>
+               <li>style</li>
+           <p>text-decorations: line red style 1px</p>
+
+           </ul>
+       </li>
+       <li>Spacing
+           <ul>
+              <li>word-spacing</li>
+              <li>white-space</li>
+              <li>line-height</li>
+              <li>letter-spacing</li>
+           </ul>
+       </li>
+       <li>Transformation
+           <ul>
+               <li>text-transform: uppercase</li>
+               <li>text-transform: lowercase</li>
+               <li>text-transform: capitalize</li>
+           </ul>
+       </li>
+       <li>shadow</li>
+   </ol>
+   <br>
+   <hr>
+   <h1>Position</h1>
+   <ul>
+       <li>static
+           <ul>
+               <li>all the div will be in static</li>
+               <li>we cannoct apply left, right, top, bottom</li>
+           </ul>
+       </li>
+       <li>relative
+           <ul>
+            <li>relative to normal position</li>
+            <li>we can apply left, right, top, bottom</li>
+           </ul>
+       </li>
+       <li>fixed
+           <ul>
+            <li>relative to normal viewport</li>
+
+           </ul>
+       </li>
+
+       <li>absolute
+        <li>relative to normal ancestor</li>
+
+       </li>
+       <li>sticky</li>
+   </ul>
+   <br>
+   <hr>
+   <div class="coint">
+    <div class="box1"></div>
+    <div class="box2"></div>
+    <div class="box3"></div>
+   </div>
